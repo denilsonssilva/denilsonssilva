@@ -22,15 +22,12 @@
 # Minhas Redes Sociais
 <div>
   <a href="https://www.linkedin.com/in/denilson-sousa-silva--/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/denii_ssiilva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
+  <a href="https://www.instagram.com/denii_ssiilva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+</div><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=denilsonssilva&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
+![](https://github-readme-stats.vercel.app/api?username=denilsonssilva&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 #
-![](https://github-readme-streak-stats.herokuapp.com/?user=denilsonssilva&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=denilsonssilva&theme=dark&hide_border=false)
 #
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonssilva&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
