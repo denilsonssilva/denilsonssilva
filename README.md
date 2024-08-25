@@ -1,8 +1,8 @@
 # Seja bem vindo ao meu Github
 
-- 📚 Estudando Banco de Dados pela Faculdade Impacta de Tecnologia.
+- 📚 Estudante de Banco de Dados pela Faculdade Impacta de Tecnologia.
   
-- 💻 Formado em Tecnico de Informática pelo Instituto Tecnico de Barueri.
+- 💻 Formado em Técnico de Informática pelo Instituto Técnico de Barueri.
 
 # Conhecimento nas seguintes linguagens
 <div>
