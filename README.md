@@ -1,16 +1,26 @@
-## Hi there 👋
+# Seja bem vindo ao meu Github
 
-<!--
-**denilsonssilva/denilsonssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudando Banco de Dados pela Faculdade Impacta de Tecnologia.
+  
+- 💻 Formado em Tecnico de Informática pelo Instituto Tecnico de Barueri.
 
-Here are some ideas to get you started:
+# Conhecimento nas seguintes linguagens
+<div>
+  <a href="https://github.com/denilsonssilva">
+</div>  
+<div style="display: inline_block"><br>
+  <img align="center" alt="deni-python" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">  
+  <img align="center" alt="deni-html" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="deni-css3" height="42" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="deni-c#" height="42" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="deni-sqlserver" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+</div>
+    
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Minhas Redes Sociais
+<div>
+  <a href="https://www.linkedin.com/in/denilson-sousa-silva--/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/denii_ssiilva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
