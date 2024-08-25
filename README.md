@@ -4,11 +4,8 @@
   
 - 💻 Formado em Técnico de Informática pelo Instituto Técnico de Barueri.
 
-# Conhecimento nas seguintes linguagens
-<div>
-  <a href="https://github.com/denilsonssilva">
-</div>  
-<div style="display: inline_block"><br>
+# Conhecimento nas seguintes linguagens  
+<div style="display: inline_block">
   <img align="center" alt="deni-python" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">  
   <img align="center" alt="deni-html" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="deni-css3" height="42" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -27,5 +24,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=denilsonssilva&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+#
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denilsonssilva&theme=dark&hide_border=false)<br/>
+
+#
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonssilva&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
