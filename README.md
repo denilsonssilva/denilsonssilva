@@ -6,7 +6,7 @@
 
 - 📚 Formado no curso de Serviços Administrativos pelo SENAC.
 
-- Visite meu perfil na <a href="https://web.dio.me/users/nd_denilson?tab=achievements" target="_blank">DIO</a>
+- ⚙ Visite meu perfil na <a href="https://web.dio.me/users/nd_denilson?tab=achievements" target="_blank" >DIO</a>
 
 
 # Conhecimento nas seguintes linguagens e ferramentas 
