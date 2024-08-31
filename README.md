@@ -6,6 +6,9 @@
 
 - 📚 Formado no curso de Serviços Administrativos pelo SENAC.
 
+- Visite meu perfil na <a href="https://web.dio.me/users/nd_denilson?tab=achievements" target="_blank">DIO</a>
+
+
 # Conhecimento nas seguintes linguagens e ferramentas 
 <div style="display: inline_block">
   <img align="center" alt="deni-python" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">  
