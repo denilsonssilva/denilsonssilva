@@ -6,6 +6,7 @@
 
 - 📚 Formado no curso de Serviços Administrativos pelo SENAC.
 
+<img src="" alt="Tech">
 
 
 # Conhecimento nas seguintes linguagens e ferramentas 
