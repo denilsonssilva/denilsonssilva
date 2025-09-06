@@ -6,6 +6,8 @@
 
 - 📚 Formado no curso de Serviços Administrativos pelo SENAC.
 
+- 💻 Programador Python Jr.
+
 # Minhas Soft Skills
 - 🤝 Trabalho em Equipe.
 - 🧭 Adaptabilidade.
